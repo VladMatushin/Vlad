@@ -15,12 +15,15 @@ public class If {
             int v = 80;
             float e = 3.5f;
         System.out.println("dfg " + e  + (q + v) + "str");
-        while(a>=1){}
-        do{
-
-        }while(a>=1);
-        for(int i = 10;i>=0;i-=2);
-            System.out.print(" ");
+        //while(a>=1){}
+       // do{
+       // }while(a>=1);
+        int b = 0;
+        for(int i = 10;i>0;i-=2)
+        {
+            System.out.print(i + " ");
+            b = i;
+        }
 
         }
     }
