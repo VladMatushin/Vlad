@@ -68,9 +68,5 @@ public class HomeworkAfterLesson2 {
         for (int i = 1;i<years;i++)
             startSum = startSum*(100 + proc)/100 - tax;
         System.out.println(startSum);
-
-
-
-
     }
 }
