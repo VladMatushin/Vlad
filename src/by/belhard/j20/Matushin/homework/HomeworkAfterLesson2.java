@@ -1,4 +1,4 @@
-package by.belhard.j20.Matushin.lessons.Homework;
+package by.belhard.j20.Matushin.homework;
 
 public class HomeworkAfterLesson2 {
     public static void main(String[] args) {
@@ -19,25 +19,30 @@ public class HomeworkAfterLesson2 {
         System.out.println(bo);
         //2)
         int r = 15;
+      // double pi = Math.PI;
         if (r>0)
-            System.out.println("S = " + r*r*3.14 + " , L = " + 2*3.14*r);
+            System.out.println("S = " + Math.pow(r,2)*Math.PI + " , L = " + 2*3.14*r);
         else System.out.println("Input data is invalid");
         //3)
         int temp = 23;
         if (temp > 30)
             System.out.println("Ничего не надевай");
+            //resault = "Ничего не надевайНичего не надевай"
         else if (temp >= 21)
             System.out.println("Надень майку");
+            //resault = "Надень майку"
         else if (temp >= 16)
             System.out.println("Надень свитер");
         else if (temp >= 10)
             System.out.println("Надень ветровку");
         else
             System.out.println("Надень куртку");
+        //System.out.println(resault);
         //4)
         int salary1 = 500;
         int salary2 = 700;
         int salary3 = 950;
+        //int s1 = 5, s2 = 10, s3 = 15;
 
         if ((salary1 > salary2) && (salary1 < salary3))
             System.out.println(salary3 - salary2);
@@ -59,6 +64,7 @@ public class HomeworkAfterLesson2 {
         int a2 = a;
         for (int i = 1;i < n;i++)
             a = a * a2;
+            //a *=a2;
         System.out.println(a);
         //6)
         int startSum = 1000;
