@@ -1,4 +1,4 @@
-package by.belhard.j20.Matushin.homework;
+package by.belhard.j20.Matushin.homework.HomeworkAfterLesson2;
 
 public class HomeworkAfterLesson2 {
     public static void main(String[] args) {

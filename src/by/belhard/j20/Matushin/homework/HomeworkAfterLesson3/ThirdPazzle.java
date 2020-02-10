@@ -1,4 +1,4 @@
-package by.belhard.j20.Matushin.lessons.Homework.HomeworkAfterLesson3;
+package by.belhard.j20.Matushin.homework.HomeworkAfterLesson3;
 
 public class ThirdPazzle {
     public static void main(String[] args) {

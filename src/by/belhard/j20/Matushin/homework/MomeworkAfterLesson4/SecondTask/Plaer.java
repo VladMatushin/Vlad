@@ -1,11 +1,11 @@
-package by.belhard.j20.Matushin.lessons.Homework.MomeworkAfterLesson4.SecondTask;
+package by.belhard.j20.Matushin.homework.MomeworkAfterLesson4.SecondTask;
 
 public class Plaer {
-    int x,y;
+    int x,y = 0;
     int rast = 0;
 
     public void setXY(int x, int y) {
-        rast += (this.x - x)*(this.x - x) + (this.y - y)*(this.y - y);
+        rast += Math.sqrt((this.x - x)*(this.x - x) + (this.y - y)*(this.y - y));
         this.x = x;
         this.y = y;
     }
