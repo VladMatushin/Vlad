@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1f7a02d-9895-49cc-956f-2e38a9af7de5" name="Default Changelist" comment="With lesson">
-      <change afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_5/Nasledovanie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_5/Nasledovanie/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_5/Nasledovanie/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_5/task1/Wardrobe.java" afterDir="false" />
+    <list default="true" id="e1f7a02d-9895-49cc-956f-2e38a9af7de5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Collections/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Collections/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Eaqels/F1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Eaqels/f2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Eaqels/m.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Workable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/HomeworkAfterLesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/HomeworkAfterLesson2/HomeworkAfterLesson2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/HomeworkAfterLesson3/FirstPazzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/HomeworkAfterLesson3/FirstPazzle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/HomeworkAfterLesson3/SecondPazzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/HomeworkAfterLesson3/SecondPazzle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/HomeworkAfterLesson3/ThirdPazzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/HomeworkAfterLesson3/ThirdPazzle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/MomeworkAfterLesson4/FirstTask/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/MomeworkAfterLesson4/FirstTask/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/MomeworkAfterLesson4/FirstTask/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/MomeworkAfterLesson4/FirstTask/Building.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/MomeworkAfterLesson4/FirstTask/Lift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/MomeworkAfterLesson4/FirstTask/Lift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/MomeworkAfterLesson4/SecondTask/Plaer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/belhard/j20/Matushin/homework/MomeworkAfterLesson4/SecondTask/Plaer.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,43 +37,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_5/Nasledovanie/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Collections/Strings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            <state relative-caret-position="374">
+              <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
               <folding>
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#480#481#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_5/Nasledovanie/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Collections/MapExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_5/Nasledovanie/Worker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+            <state relative-caret-position="153">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding>
-                <element signature="e#487#488#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,6 +66,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -112,6 +93,15 @@
         <option value="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_5/Nasledovanie/Worker.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_5/Nasledovanie/Main.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_5/Nasledovanie/Person.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Working.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Person.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Worker.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Workable.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Eaqels/f1.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Eaqels/m.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Collections/Strings.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Collections/MapExample.java" />
       </list>
     </option>
   </component>
@@ -137,6 +127,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,7 +190,7 @@
               <item name="j20" type="462c0819:PsiDirectoryNode" />
               <item name="Matushin" type="462c0819:PsiDirectoryNode" />
               <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_5" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson_6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Matushun" type="b2602c69:ProjectViewProjectNode" />
@@ -209,15 +201,13 @@
               <item name="j20" type="462c0819:PsiDirectoryNode" />
               <item name="Matushin" type="462c0819:PsiDirectoryNode" />
               <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_5" type="462c0819:PsiDirectoryNode" />
-              <item name="Nasledovanie" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson_6" type="462c0819:PsiDirectoryNode" />
+              <item name="Collections" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -227,11 +217,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581357105211" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581531888571" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\Desktop\Matushun\src\by\belhard\j20\Matushin\lessons\lesson_6" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="by.belhard.j20.Matushin.lessons.lesson_4" />
     </key>
@@ -248,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Strings">
     <configuration name="HomeworkAfterLesson2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.belhard.j20.Matushin.lessons.Homework.HomeworkAfterLesson2" />
       <module name="Matushun" />
@@ -275,12 +268,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.belhard.j20.Matushin.lessons.lesson_2.If" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.belhard.j20.Matushin.lessons.lesson_5.Nasledovanie.Main" />
       <module name="Matushun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.belhard.j20.Matushin.lessons.lesson_2.*" />
+          <option name="PATTERN" value="by.belhard.j20.Matushin.lessons.lesson_5.Nasledovanie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,12 +281,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.belhard.j20.Matushin.lessons.lesson_5.Nasledovanie.Main" />
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.belhard.j20.Matushin.lessons.lesson_6.Collections.Strings" />
       <module name="Matushun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.belhard.j20.Matushin.lessons.lesson_5.Nasledovanie.*" />
+          <option name="PATTERN" value="by.belhard.j20.Matushin.lessons.lesson_6.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,11 +309,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Strings" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ThirdPazzle" />
         <item itemvalue="Application.HomeworkAfterLesson2 (1)" />
         <item itemvalue="Application.HomeworkAfterLesson2" />
-        <item itemvalue="Application.If" />
       </list>
     </recent_temporary>
   </component>
@@ -336,6 +329,7 @@
       <updated>1580144044197</updated>
       <workItem from="1580144052494" duration="5502000" />
       <workItem from="1580311597570" duration="10985000" />
+      <workItem from="1581521266704" duration="8159000" />
     </task>
     <task id="LOCAL-00001" summary="With lesson">
       <created>1580916705101</created>
@@ -344,11 +338,18 @@
       <option name="project" value="LOCAL" />
       <updated>1580916705101</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="After lesson 5">
+      <created>1581359395549</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581359395549</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34591000" />
+    <option name="totallyTimeSpent" value="42885000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -363,7 +364,7 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2622108" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26542416" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -372,7 +373,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -415,7 +416,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="With lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="With lesson" />
+    <MESSAGE value="After lesson 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="After lesson 5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="677" y="191" key="#Homework1" timestamp="1580581253608">
@@ -596,40 +598,126 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_5/Nasledovanie/Worker.java">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        <state relative-caret-position="239">
+          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
           <folding>
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#10225#10226#0" expanded="true" />
+            <element signature="e#10308#10309#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_5/Nasledovanie/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_5/Nasledovanie/Worker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Workable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Eaqels/f2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_5/Nasledovanie/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_5/Nasledovanie/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Eaqels/F1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Eaqels/m.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Collections/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j20/Matushin/lessons/lesson_6/Collections/MapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
